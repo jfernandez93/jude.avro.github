@@ -14,7 +14,7 @@ import org.apache.avro.io.DatumReader;
 import org.apache.avro.io.DatumWriter;
 
 //adding checkpoint 1 
-
+//adding checkpoint 2
 public class Avero_Class2 {
 	  public static void main(String[] args) {
 		  Schema schema = null;
