@@ -14,6 +14,8 @@ import org.apache.avro.io.DatumReader;
 import org.apache.avro.io.DatumWriter;
 
 
+
+
 public class Avero_Class2 {
 	  public static void main(String[] args) {
 		  Schema schema = null;
